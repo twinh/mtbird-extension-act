@@ -1,0 +1,23 @@
+{
+	"name": "mtbird-extension-act",
+	"title": "mtbird-extension-act",
+	"version": "1.0.0",
+	"desc": "星搭报名活动扩展",
+	"tags": [
+		"拓展案例"
+	],
+	"contributes": {
+		"toolbars": [
+			{
+				"sort": 3,
+				"params": {
+					"name": "拓展案例"
+				},
+				"link": "feature",
+				"feature": "example.tab"
+			}
+		]
+	},
+	"components": [
+	]
+}
