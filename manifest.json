@@ -19,6 +19,7 @@
 		]
 	},
 	"components": [
-		"Bgm"
+		"Bgm",
+		"InputVerifyPhone"
 	]
 }
